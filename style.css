@@ -73,6 +73,7 @@
 }
 
 .head {
+  margin: 2rem;
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -313,6 +314,7 @@ text-align: left;
   height: 576px;
 }
 .footer {
+  margin: 2rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
